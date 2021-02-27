@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Profiles
 - <a href="https://www.khanacademy.org/profile/ThisIsEinsteinium/">Khanacademy</a>
+- <a href="https://www.freecodecamp.org/einsteinium">FreeCodeCamp</a>
+- <a href="https://www.vocabulary.com/profiles/A1170J92PZZNAL">Vocabulary.com</a>
 - <a href="https://www.youtube.com/channel/UCHBtLurEBGCWyQITZWumaLA">YouTube - Dominoes</a>
 
 
